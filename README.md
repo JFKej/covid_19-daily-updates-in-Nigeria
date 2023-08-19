@@ -1,0 +1,2 @@
+# covid_19-daily-updates-in-Nigeria
+On the 27th of February 2020, the very first case of covid-19 was reported in Lagos, Nigeria. Since then, the disease has spread to other parts of the country with some numbers of death recorded. This report was developed to give Nigerian Center for disease control (NCDC) and the general public the statistics of people that were being affected daily and people that were dying in the process. It is believed that NCDC and the general public will find the result useful to provide adequate measures to control/curb the disease.
